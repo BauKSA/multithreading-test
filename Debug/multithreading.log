@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\BrRa2\Desktop\cpp\multithreading\player.h(11,8): warning C4309: 'argumento predeterminado': truncamiento de valor constante
+C:\Users\BrRa2\Desktop\cpp\multithreading\enemy.h(13,7): warning C4309: 'argumento predeterminado': truncamiento de valor constante
+  multithreading.vcxproj -> C:\Users\BrRa2\Desktop\cpp\multithreading\Debug\multithreading.exe
